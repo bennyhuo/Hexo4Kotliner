@@ -1,0 +1,9 @@
+test/
+tmp/
+coverage/
+*.log
+.travis.yml
+gulpfile.js
+.idea/
+appveyor.yml
+node_modules
